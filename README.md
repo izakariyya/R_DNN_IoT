@@ -1,4 +1,4 @@
-<ins>**Robust, effective and resource efficient deep neural network for intrusion detection in IoT networks**</ins>
+<ins>**Robust, Effective and Resource Efficient Deep Neural Network for Intrusion Detection in IoT networks**</ins>
 
 **Overview**
 
